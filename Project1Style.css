@@ -144,4 +144,8 @@ h4, p, li, ul{
 
 .nomor-hubung {
     align-items: center;
+    float: right;
+    text-align: left;
+    margin-top:1rem;
+    padding-right: 8rem;
 }
