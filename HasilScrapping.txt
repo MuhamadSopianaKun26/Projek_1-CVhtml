@@ -1,0 +1,29 @@
+Heading Utama:  Hai,
+H1:  Hai,
+H1: Saya Muhamad Sopiana Argiansah
+H2: Mahasiswa Teknik Informatika - Politeknik Negeri Bandung
+H2: Tentang Saya
+H2: Muhamad Sopiana Argiansah
+H2: Riwayat Pendidikan
+H2: Pengalaman
+H2: Keterampilan
+H3: © Muhamad Sopiana Argiansah - 11 Februari 2025
+H3: Contoh Projek
+H3: Hubungi Saya
+H4: 1. Game 2048 - Bahasa C
+H4: Fakta Menarik Tentang Saya
+H4: Nomor WhatsApp :
+Link Navigasi: https://www.instagram.com/liiaargh/ -
+
+
+Link Navigasi: https://github.com/MuhamadSopianaKun26/Projek_1-CVhtml -
+
+
+Input Form: name Tipe: text
+Input Form: Kontak Tipe: text
+Input Form: Tanggal Tipe: date
+Input Form: radio Tipe: radio
+Input Form: radio Tipe: radio
+Input Form: radio Tipe: radio
+Input Form: radio Tipe: radio
+Input Form: radio Tipe: radio

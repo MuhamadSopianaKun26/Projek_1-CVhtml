@@ -1,0 +1,147 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: left;
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+body {
+    background-image: url("./image/white-ellegant-background.jpg"); 
+    background-size: auto; 
+    background-position: center;
+    background-repeat: repeat; 
+    font-family: Helvetica;
+}
+
+main {
+    width: 75%;
+    margin: 0 auto;
+}
+
+article {
+    scroll-margin-top: 100px;
+}
+
+article {
+    text-align: center;
+    
+}
+
+aside {
+    display: inline-block;
+    margin: 15px 10px;
+    padding: 10px 10 px;
+    border-radius: 10px; 
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
+    background-color: rgb(255, 255, 255);
+}
+
+table{
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+.foto-bulat{
+    width : 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.blok {
+    background-color: #f4f4f4; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 80%; 
+    border-radius: 10px; 
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+h4, p, li, ul{
+    line-height: 1.5;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.fixed-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+    z-index: 1000;
+    box-shadow: 10px 10px 10px gray;
+    padding: 10px 0;
+}
+
+.fixed-footer{
+    position: fixed;
+    border-radius: 0.50rem;
+    padding: 1px;
+    bottom: 2px;
+    left: 6px;
+    right: 6px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    margin: 10px auto;
+}
+
+.navbarImage{
+    filter: invert(1);
+    width:20px;
+    height: 20px;
+    object-fit: cover;
+}
+
+.navbar {
+    display: flex;
+    gap: 25px;
+    padding: 0 1rem;
+}
+
+.navbar a{
+    text-decoration: none;
+    color:beige;
+    font-size: 16px;
+    padding: 3px 10px;
+    border-radius: 5px
+}
+
+.navbar a:hover{
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.nomor-hubung {
+    align-items: center;
+}
